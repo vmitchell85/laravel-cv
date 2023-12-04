@@ -50,11 +50,23 @@
             <h2 class="mb-6">Projects</h2>
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 text-sm">
                 <div>
-                    <a class="text-orange-600" href="https://calumetchristianschool.org/">Calumet Christian School <small>(Statamic)</small></a>
+                    <a class="text-orange-600" href="https://firetower.dev">Fire Tower <small>(Upcoming SaaS)</small></a>
+                </div>
+                <div>
+                    <a class="text-orange-600" href="https://xtrabyt.com">Xtrabyt</a>
                 </div>
                 <div><a class="text-orange-600" href="https://github.com/vmitchell85/alforge">AlForge</a></div>
                 <div><a class="text-orange-600" href="https://bingo.krakero.dev/">Custom Bingo Boards</a></div>
                 <div><a class="text-orange-600" href="https://github.com/vmitchell85/laravel-cv">This Codebase</a></div>
+                <div>
+                    <a class="text-orange-600" href="https://58partners.org/">58 Partners <small>(Statamic)</small></a>
+                </div>
+                <div>
+                    <a class="text-orange-600" href="https://charleyskids.org/">Charleys Kids <small>(Statamic)</small></a>
+                </div>
+                <div>
+                    <a class="text-orange-600" href="https://calumetchristianschool.org/">Calumet Christian School <small>(Statamic)</small></a>
+                </div>
             </div>
         </div>
         <div class="max-w-5xl mx-auto my-12 px-2">
